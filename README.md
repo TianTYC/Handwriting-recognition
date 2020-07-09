@@ -5,6 +5,7 @@ Users Choose the button1 to `"Generate Pattern"`，press `"M"` to turn to the ha
 
 # Demo
 ![image](https://github.com/TianTYC/Handwriting-recognition/edit/master/Demofile/mnist.gif)
-![image](C:\Users\alienware\Desktop\HandwritingRecognition\Demofile\fig1.png)
-![image](C:\Users\alienware\Desktop\HandwritingRecognition\Demofile\fig2.png)
-![image](C:\Users\alienware\Desktop\HandwritingRecognition\Demofile\fig3.png)
+![image](https://github.com/TianTYC/Handwriting-recognition/blob/master/fig1.png)
+![image](https://github.com/TianTYC/Handwriting-recognition/blob/master/fig2.png)
+![image](https://github.com/TianTYC/Handwriting-recognition/blob/master/fig3.png)
+![image](https://github.com/TianTYC/Handwriting-recognition/blob/master/fig4.png)
